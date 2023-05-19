@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-  - Email: [contoh@gmail.com](ghanifikribaihaqi@gmail.com)
-  - LinkedIn: [linkedin.com/contoh](https://www.linkedin.com/ghanifikri)
+  - Email: [ghanifikribaihaqi@gmail.com](ghanifikribaihaqi@gmail.com)
+  - LinkedIn: [linkedin.com/ghanifikri](https://www.linkedin.com/ghanifikri)
 
 
 
