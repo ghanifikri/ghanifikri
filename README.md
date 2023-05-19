@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @ghanifikri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
+  - Email: [contoh@gmail.com](ghanifikribaihaqi@gmail.com)
+  - LinkedIn: [linkedin.com/contoh](https://www.linkedin.com/ghanifikri)
+
+
 
 <!---
 ghanifikri/ghanifikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
