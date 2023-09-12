@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ghanifikri
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Big Data and Backend Engineer
 - 📫 How to reach me 
   - Email: [ghanifikribaihaqi@gmail.com](ghanifikribaihaqi@gmail.com)
   - LinkedIn: [linkedin.com/ghanifikri](https://www.linkedin.com/in/ghanifikri/) 
