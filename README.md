@@ -1,4 +1,3 @@
-````md id="h24n7l"
 <h1 align="center">Hi 👋, I'm Ghani Fikri Baihaqi</h1>
 
 <h3 align="center">
@@ -134,4 +133,3 @@ S3-compatible object storage and distributed file delivery platform.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghanifikri&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
-```
