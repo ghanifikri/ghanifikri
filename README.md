@@ -40,7 +40,6 @@ const ghani = {
     "AI Integration"
   ]
 };
-```
 
 ---
 
