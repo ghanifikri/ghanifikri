@@ -60,17 +60,23 @@ Building scalable web and mobile applications with modern backend architecture, 
 
 # 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ghanifikri\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ghanifikri&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanifikri\&layout=compact\&theme=tokyonight\&hide_border=true)
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghanifikri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghanifikri\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ghanifikri&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🏆 Achievements
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ghanifikri\&theme=tokyonight\&no-frame=true\&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghanifikri&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
@@ -100,4 +106,6 @@ S3-compatible object storage and distributed file delivery platform.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ghanifikri\&label=Profile+Views\&color=0e75b6\&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghanifikri&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
